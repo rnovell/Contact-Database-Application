@@ -1,0 +1,11 @@
+You will need to create a folder on your C: drive: "ClientDatabase".  You will also need to copy "ClientDatabase.accdb" from the installation disk to that directory and if you do not have Microsoft Office pro on your computer, you will need to install "AccessDatabaseEngine_X64.exe" from the installation disk. 
+
+THIS IS A DEMO PROGRAM THAT WILL ALLOW ONLY 3O RECORDS.
+
+IF YOU WANT THE FULL VERSION PLEASE GO TO: http://novellconsulting.net/ContactDatabase.html
+AND CLICK ON THE CREDIT CARD PORTAL AND PAY $75.
+
+Please then send us a message via the contact us link and we will send you a link to the full registered version that will allow you to have unlimited number of contacts.
+
+Any questions: please call 414-491-1699
+or email me @ rnovell@novellconsulting.com
